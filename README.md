@@ -9,6 +9,7 @@
 
 ## 사용 방법
 
+**# 실행을 위해 JDK 11 필요**
 1. [export 경로](https://github.com/yhoo0094/MoveMouse/tree/main/MoveMouse/export)에서 mm.bat, mm.jar 파일 다운로드 
 
 2. mm.bat, mm.jar 파일은 같은 경로에 두고 mm.bat를 실행한다.
@@ -16,6 +17,13 @@
 <img src="./img/img1.png" alt="img1.png" style="zoom:67%;" />
 
 3. 마우스 움직이기 수행 간격을 입력한다. 10초 내로 입력하지 않을 경우 기본 값(60초)이 적용된다.
+
+
+
+## 개발환경
+
+* IDE: Eclipse 2022-09
+* JDK: OpenJDK 11
 
 
 
