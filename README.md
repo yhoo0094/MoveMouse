@@ -13,7 +13,7 @@
 
 2. mm.bat, mm.jar 파일은 같은 경로에 두고 mm.bat를 실행한다.
 
-<img src="../../images/MoveMouse/image-20231025171121296.png" alt="image-20231025171121296" style="zoom:67%;" />
+<img src="./img/img1.png" alt="img1.png" style="zoom:67%;" />
 
 3. 마우스 움직이기 수행 간격을 입력한다. 10초 내로 입력하지 않을 경우 기본 값(60초)이 적용된다.
 
